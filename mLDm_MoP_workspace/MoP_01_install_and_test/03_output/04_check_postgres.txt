@@ -1,4 +1,4 @@
-COMMAND: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv\Scripts\python.exe -c 
+COMMAND: C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace\__venv\Scripts\python.exe -c 
 import psycopg
 
 connection = psycopg.connect(
@@ -31,7 +31,7 @@ RETURN_CODE: 0
 STDOUT:
 database: mldm
 user: mldm
-version: PostgreSQL 16.15 (Debian 16.15-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+version: PostgreSQL 16.13 (Debian 16.13-1.pgdg13+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
 
 STDERR:
 

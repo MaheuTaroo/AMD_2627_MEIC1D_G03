@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv'
+set -gx VIRTUAL_ENV 'C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace\__venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH

@@ -8,15 +8,15 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv"
+set "VIRTUAL_ENV=C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace\__venv"
 
 if not defined PROMPT set PROMPT=$P$G
 
 if defined _OLD_VIRTUAL_PROMPT set PROMPT=%_OLD_VIRTUAL_PROMPT%
 if defined _OLD_VIRTUAL_PYTHONHOME set PYTHONHOME=%_OLD_VIRTUAL_PYTHONHOME%
 
-set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
-set "PROMPT=(__venv) %PROMPT%"
+if not defined VIRTUAL_ENV_DISABLE_PROMPT set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
+if not defined VIRTUAL_ENV_DISABLE_PROMPT set "PROMPT=(__venv) %PROMPT%"
 
 if defined PYTHONHOME set _OLD_VIRTUAL_PYTHONHOME=%PYTHONHOME%
 set PYTHONHOME=

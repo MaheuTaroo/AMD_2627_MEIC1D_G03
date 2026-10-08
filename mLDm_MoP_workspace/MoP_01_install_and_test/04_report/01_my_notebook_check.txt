@@ -1,10 +1,10 @@
 PTS | mLDm | notebook evidence
-timestamp: 2026-10-01T17:21:05
-platform: Windows-10-10.0.19045-SP0
-workspace_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace
-mop_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\MoP_01_install_and_test
-python_executable: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv\Scripts\python.exe
-kernel_uses_virtual_environment: yes
+timestamp: 2026-09-24T16:40:48
+platform: Windows-11-10.0.26200-SP0
+workspace_path: C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace
+mop_path: C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace\MoP_01_install_and_test
+python_executable: C:\pessoal\school\disciplinas\meic\1osem\AMD\mLDm_MoP_workspace\__venv\Scripts\python.exe
+kernel_uses_virtual_environment: True
 
 package_check:
 numpy: OK | 2.5.1
