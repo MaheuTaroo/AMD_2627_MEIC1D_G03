@@ -1,0 +1,16 @@
+system_python: C:\Users\pantu\AppData\Local\Python\pythoncore-3.14-64\python.exe
+system_python_version: 3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]
+platform: Windows-10-10.0.19045-SP0
+mop_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\MoP_01_install_and_test
+workspace_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace
+venv_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv
+venv_python_path: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv\Scripts\python.exe
+
+COMMAND: D:\Repos\AMD_2627_MEIC1D_G03\mLDm_MoP_workspace\__venv\Scripts\python.exe --version
+RETURN_CODE: 0
+
+STDOUT:
+Python 3.14.5
+
+STDERR:
+
