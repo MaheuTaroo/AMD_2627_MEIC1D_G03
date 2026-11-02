@@ -12,8 +12,8 @@ from pathlib import Path
 import subprocess
 
 # PTS | choose the one you are using (comment-out the other)
-RUNTIME = "podman"
-# RUNTIME = "docker"
+# RUNTIME = "podman"
+RUNTIME = "docker"
 
 CONTAINER = "mldm_postgres"
 DATABASE = "mldm"
