@@ -179,3 +179,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+#folders
+mLDm_MoP_workspace/__container
+mLDm_MoP_workspace/__venv
+mLDm_MoP_workspace/.dist
+mLDm_MoP_workspace/.idea
+mLDm_MoP_workspace/.vscode
